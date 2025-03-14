@@ -1,8 +1,8 @@
 # wl-paper
 Code for paper "Weber’s law implies performance limiting slow noise in evidence accumulation"
 
-1. Tested on operating systems: Windows 10 Education, Windows 10, Sonoma 14.5, MacOS 14.5 (23F79).
-The code requires Matlab (tested in Matlab versions R2020b, R2021, R2023b).
+1. Tested on operating systems: Windows 10 Education, Windows 10, Sonoma 14.5, MacOS 14.5 (23F79), Ubuntu 20.04.4 LTS 64bit.
+The code requires Matlab (tested in Matlab versions R2020b, R2021, R2022a, R2023b).
 No non-standard hardware required.
 
 2. Run the modelSimsAndPLOTs_vm_vs.m
